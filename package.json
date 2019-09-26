@@ -1,0 +1,23 @@
+{
+  "name": "lunch_bot",
+  "version": "1.0.0",
+  "description": "LINE BOT for lunch information",
+  "main": "index.js",
+  "scripts": {
+    "test": "now dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koukibuu3/lunch_bot.git"
+  },
+  "author": "koukibuu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koukibuu3/lunch_bot/issues"
+  },
+  "homepage": "https://github.com/koukibuu3/lunch_bot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
