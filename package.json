@@ -1,7 +1,7 @@
 {
-  "name": "lunch_bot",
+  "name": "mh_bot",
   "version": "1.0.0",
-  "description": "LINE BOT for lunch information",
+  "description": "LINE BOT for Monster Hunter:WORLD ICEBORN's information",
   "main": "index.js",
   "scripts": {
     "test": "now dev"
@@ -16,8 +16,24 @@
     "url": "https://github.com/koukibuu3/lunch_bot/issues"
   },
   "homepage": "https://github.com/koukibuu3/lunch_bot#readme",
+  "now": {
+    "env": {
+      "CHANNEL_ACCESS_TOKEN": "@line-token",
+      "CHANNEL_SECRET": "@line-secret"
+    }
+  },
   "dependencies": {
+    "@line/bot-sdk": "^6.8.2",
     "cheerio": "^1.0.0-rc.3",
-    "request": "^2.88.0"
+    "dotenv": "^8.2.0",
+    "now": "^16.4.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
   }
 }
