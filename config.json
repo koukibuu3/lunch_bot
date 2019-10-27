@@ -1,0 +1,82 @@
+{
+    "urls": {
+        "monster": "https://gamewith.jp/mhw/article/show/87166",
+        "soshokuhin": "https://altema.jp/mhw/soushokuhinlist"
+    },
+    "line": {
+        "replyToken": "00000000000000000000000000000000"
+    },
+    "helpmessage": "■使い方\n★検索したい語句を送信してください。現在以下のみサポートしています。\n・武器種検索\n・モンスター検索\n・装飾品検索\n\n例）大剣、イヴェルカーナ、レウス、短縮、etc...",
+    "weapons": {
+        "大剣": {
+            "最終強化": "http://mhwg.org/data/4300.html",
+            "派生図": "http://mhwg.org/data/4000.html",
+            "立ち回り": "https://game8.jp/mhw/157614"
+        },
+        "太刀": {
+            "最終強化": "http://mhwg.org/data/4301.html",
+            "派生図": "http://mhwg.org/data/4001.html",
+            "立ち回り": "https://game8.jp/mhw/157634"
+        },
+        "片手剣": {
+            "最終強化": "http://mhwg.org/data/4302.html",
+            "派生図": "http://mhwg.org/data/4002.html",
+            "立ち回り": "https://game8.jp/mhw/157696"
+        },
+        "双剣": {
+            "最終強化": "http://mhwg.org/data/4303.html",
+            "派生図": "http://mhwg.org/data/4003.html",
+            "立ち回り": "https://game8.jp/mhw/157746"
+        },
+        "ハンマー": {
+            "最終強化": "http://mhwg.org/data/4304.html",
+            "派生図": "http://mhwg.org/data/4004.html",
+            "立ち回り": "https://game8.jp/mhw/157753"
+        },
+        "狩猟笛": {
+            "最終強化": "http://mhwg.org/data/4305.html",
+            "派生図": "http://mhwg.org/data/4005.html",
+            "立ち回り": "https://game8.jp/mhw/157886"
+        },
+        "ランス": {
+            "最終強化": "http://mhwg.org/data/4306.html",
+            "派生図": "http://mhwg.org/data/4006.html",
+            "立ち回り": "https://game8.jp/mhw/157897"
+        },
+        "ガンランス": {
+            "最終強化": "http://mhwg.org/data/4307.html",
+            "派生図": "http://mhwg.org/data/4007.html",
+            "立ち回り": "https://game8.jp/mhw/157902"
+        },
+        "スラッシュアックス": {
+            "最終強化": "http://mhwg.org/data/4308.html",
+            "派生図": "http://mhwg.org/data/4008.html",
+            "立ち回り": "https://game8.jp/mhw/157906"
+        },
+        "チャージアックス": {
+            "最終強化": "http://mhwg.org/data/4309.html",
+            "派生図": "http://mhwg.org/data/4009.html",
+            "立ち回り": "https://game8.jp/mhw/157920"
+        },
+        "操虫棍": {
+            "最終強化": "http://mhwg.org/data/4310.html",
+            "派生図": "http://mhwg.org/data/4010.html",
+            "立ち回り": "https://game8.jp/mhw/157925"
+        },
+        "ライトボウガン": {
+            "最終強化": "http://mhwg.org/data/4311.html",
+            "派生図": "http://mhwg.org/data/4011.html",
+            "立ち回り": "https://game8.jp/mhw/157987"
+        },
+        "ヘヴィボウガン": {
+            "最終強化": "http://mhwg.org/data/4312.html",
+            "派生図": "http://mhwg.org/data/4012.html",
+            "立ち回り": "https://game8.jp/mhw/157980"
+        },
+        "弓": {
+            "最終強化": "http://mhwg.org/data/4313.html",
+            "派生図": "http://mhwg.org/data/4013.html",
+            "立ち回り": "https://game8.jp/mhw/157928"
+        }
+    }
+}
